@@ -8,3 +8,7 @@
 
 ### Even 
 [![asciicast](https://asciinema.org)](https://asciinema.org/a/sUSsGOBBXtNpqPWa)
+
+### gcd 
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/j9VRqnbtCca2qrTd)
