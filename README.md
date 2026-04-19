@@ -12,3 +12,11 @@
 ### gcd 
 
 [![asciicast](https://asciinema.org)](https://asciinema.org/a/j9VRqnbtCca2qrTd)
+
+### progression
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/EUv8OGT6TZn8OAUo)
+
+### prime 
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/LB4a3GuudX32JLVT)
