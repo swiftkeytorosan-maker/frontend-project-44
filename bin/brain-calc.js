@@ -6,7 +6,7 @@ const getRandomNumber = () => Math.floor(Math.random() * 20) + 1 // eslint-disab
 
 const getRandomOperator = () => {
   const operators = ['+', '-', '*']
-  const randomIndex = Math.floor(Math.random() * operators.length)
+  const randomIndex = Math.floor(Math.random() * operators.length) // eslint-disable-line
   return operators[randomIndex]
 }
 
