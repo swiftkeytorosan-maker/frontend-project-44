@@ -2,7 +2,7 @@
 
 import { runGame } from '../src/index.js'
 
-const getRandomNumber = () => Math.floor(Math.random() * 20) + 1
+const getRandomNumber = () => Math.floor(Math.random() * 20) + 1 // eslint-disable-line
 
 const getRandomOperator = () => {
   const operators = ['+', '-', '*']
