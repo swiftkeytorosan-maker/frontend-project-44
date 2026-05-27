@@ -8,7 +8,7 @@ const isPrime = (num) => {
   return true
 }
 
-const getRandomNumber = () => Math.floor(Math.random() * 100) + 1
+const getRandomNumber = () => Math.floor(Math.random() * 100) + 1 // eslint-disable-line
 
 const generateRound = () => {
   const question = getRandomNumber()

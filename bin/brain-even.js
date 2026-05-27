@@ -4,7 +4,7 @@ import { runGame } from '../src/index.js'
 
 const isEven = number => number % 2 === 0
 
-const getRandomNumber = () => Math.floor(Math.random() * 100) + 1
+const getRandomNumber = () => Math.floor(Math.random() * 100) + 1 // eslint-disable-line
 
 const generateRound = () => {
   const number = getRandomNumber()

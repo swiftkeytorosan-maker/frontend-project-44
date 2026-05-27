@@ -10,7 +10,7 @@ const getGcd = (a, b) => {
   return a
 }
 
-const getRandomNumber = () => Math.floor(Math.random() * 50) + 1
+const getRandomNumber = () => Math.floor(Math.random() * 50) + 1 // eslint-disable-line
 
 const generateRound = () => {
   const num1 = getRandomNumber()
