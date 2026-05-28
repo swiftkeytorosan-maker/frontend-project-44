@@ -24,7 +24,6 @@ const generateRound = () => {
 
 const gameDescription = 'Find the greatest common divisor of given numbers.'
 
-// Оборачиваем в функцию и экспортируем её
 const runGcdGame = () => {
   runGame(gameDescription, generateRound)
 }
