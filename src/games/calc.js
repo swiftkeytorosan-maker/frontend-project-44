@@ -1,4 +1,4 @@
-import { runGame } from '../src/index.js'
+import { runGame } from '../index.js'
 
 const getRandomNumber = () => Math.floor(Math.random() * 20) + 1 // eslint-disable-line
 
